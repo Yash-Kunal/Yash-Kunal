@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yash-Kunal
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...Git, GitHub and Version Control
+- 🌱 I’m currently learning ..SDE and WebDev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..."yash.kunal.met22@itbhu.ac.in"
 
