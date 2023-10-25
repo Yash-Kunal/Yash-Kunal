@@ -1,0 +1,123 @@
+body{
+            
+    background-image: url(https://images.pexels.com/photos/305821/pexels-photo-305821.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+   
+    background-position-x: right;
+    background-repeat: no-repeat;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(234, 231, 231);
+   
+}
+.navbar{
+    background-color: rgb(79, 120, 80);
+    border: 5px rgb(60, 65, 60);
+    height: 8vh;
+    margin-top: 0px;
+    
+}
+.navbar li{
+    float: left;
+    list-style: none;
+    border: 4px;
+    padding: 3vh 2vw;
+}
+.navbar li a{
+    padding: 10px;
+    text-decoration: none;
+}        
+
+a{ 
+    color: antiquewhite;
+}
+.navbar div{
+    float: right;
+    padding-top: 3vh;
+    padding-right: 3vw;
+    
+} 
+.tag{
+    color: rgb(79, 120, 80);
+    padding-left: 34vw;
+    
+}
+#name{
+font-size: xx-large;
+padding-top: 5vh;
+font-size: 7vh;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#quote{
+padding-top: 0vh;
+padding-left: 36.5vw;
+}
+.search-container {
+display: flex;
+align-items: center;
+padding-left: 35.8vw;
+padding-top: 2vh;
+}
+
+
+#search-input {
+padding: 10px;
+border: 1px solid #ccc;
+border-radius: 20px;
+margin-right: 10px;
+width: 250px;
+font-size: 16px;
+}
+
+
+#search-button {
+padding: 10px 20px;
+background-color: rgb(86, 138, 87);
+color: #fff;
+border: none;
+border-radius: 20px;
+cursor: pointer;
+font-size: 16px;
+}
+
+
+#search-button:hover {
+background-color: rgb(73, 112, 74);
+}
+.review-box { 
+display: flex;
+width: 50vw;
+height: 9vh;
+border: 1px solid hsl(105, 60%, 25%);
+padding-top: 10px;
+padding-right: 0px;
+border-radius: 25px;
+margin: 10px;
+padding-bottom: 2px;
+}
+
+
+.reviewer-info {
+flex: 1; 
+padding: 10px;
+padding-left: 4vw;
+}
+
+.reviewer-info h3 {
+margin: 0;
+font-size: 16px;
+}
+
+
+.rating {
+font-size: 24px;
+color: gold;
+}
+
+
+.review-text {
+flex: 2;
+margin: 0;
+font-size: 14px;
+padding-left: 0vw;
+padding-top: 2vh;
+padding-right: 5vw;
+}
