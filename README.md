@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ..SDE and WebDev
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..."yash.kunal.met22@itbhu.ac.in"
+- 📫 How to reach me ..."yashkunal724@gmail.com"
 
 <!---
 Yash-Kunal/Yash-Kunal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
